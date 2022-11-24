@@ -1,0 +1,21 @@
+:root{
+    --color-primary: #efa05c;
+    --color-secondary: #9a6333;
+    --color-title: ;
+    --color-text: ;
+    --color-bg: ;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
